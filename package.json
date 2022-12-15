@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/noobe/rm-07-react-component-library/issues"
   },
-  "homepage": "https://github.com/noobe/rm-07-react-component-library#readme"
+  "homepage": "https://github.com/noobe/rm-07-react-component-library#readme",
+  "devDependencies": {
+    "@types/react": "^18.0.26",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^4.9.4"
+  }
 }
