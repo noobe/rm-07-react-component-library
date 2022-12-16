@@ -49,4 +49,3 @@ Storybook is an open-source tool for building UI components and pages in isolati
 ```js
 npm run storybook
 ```
-tested
