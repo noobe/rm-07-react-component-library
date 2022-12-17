@@ -53,4 +53,20 @@ npm run storybook
 ## Component Summary:
 Basic: Components with core functionalities 
 Atomic: Components that are basic UI elements
+  Layout
+  Section
+  Box
+  Button
+  Links
+  InputText
+  InputTextArea
+  RadioButton
+  Checkbox
+  RangeSlider
+  Date
+  DateTime
 Composite: Components that are complex and are build up of components available in Atomic
+  Sidebar
+  Header
+  Footer
+  Modal
