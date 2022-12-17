@@ -49,3 +49,8 @@ Storybook is an open-source tool for building UI components and pages in isolati
 ```js
 npm run storybook
 ```
+
+## Component Summary:
+Basic: Components with core functionalities 
+Atomic: Components that are basic UI elements
+Composite: Components that are complex and are build up of components available in Atomic
