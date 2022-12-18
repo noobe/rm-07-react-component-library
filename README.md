@@ -56,6 +56,8 @@ Atomic: Components that are basic UI elements
   Layout
   Section
   Box
+  Icon
+  Badge
   Button
   Links
   InputText
